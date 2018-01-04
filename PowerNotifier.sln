@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PowerNotifier", "PowerNotifier\PowerNotifier.vbproj", "{CAE69E20-CE27-426E-85F1-08AE948C1147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|ARM.Build.0 = Debug|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x64.ActiveCfg = Debug|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x64.Build.0 = Debug|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x64.Deploy.0 = Debug|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x86.ActiveCfg = Debug|x86
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x86.Build.0 = Debug|x86
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Debug|x86.Deploy.0 = Debug|x86
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|ARM.ActiveCfg = Release|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|ARM.Build.0 = Release|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|ARM.Deploy.0 = Release|ARM
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x64.ActiveCfg = Release|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x64.Build.0 = Release|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x64.Deploy.0 = Release|x64
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x86.ActiveCfg = Release|x86
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x86.Build.0 = Release|x86
+		{CAE69E20-CE27-426E-85F1-08AE948C1147}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DCD88F-6258-40E8-BCA2-AFB3DD10990B}
+	EndGlobalSection
+EndGlobal
