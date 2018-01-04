@@ -8,6 +8,9 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <ProgressRing IsActive="True" x:Name="mainProgressRing"/>
+        <StackPanel x:Name="debugPanel" Visibility="Collapsed">
+            <Button x:Name="debugButton">Debug</Button>
+        </StackPanel>
     </Grid>
 </Page>
