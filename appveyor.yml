@@ -1,0 +1,6 @@
+image: Visual Studio 2017
+build:
+  project: PowerNotifier.sln
+environment:
+  AppxBundle: Always
+  AppxBundlePlatforms: x86|x64|arm
